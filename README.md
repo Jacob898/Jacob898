@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Jakub! 👋
 
+**I'm a Computer Science student at AGH University of Krakow. 👨‍🎓**
 <!--
 **Jacob898/Jacob898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
