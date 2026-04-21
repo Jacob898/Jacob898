@@ -2,6 +2,11 @@
 
 **I'm a Computer Science student at AGH University of Krakow. 👨‍🎓**
 
+During my education, I've been expanding my knowledge of Java, React, Python and TypeScript by working on and completing multiple projects, which are available on my GitHub profile. 💻
+
+In addition to my practical skills, I easily adapt to new environments and make a great team player.
+
+I always look forward to new challenges and opportunities to broaden my skill set 😊
 
 ### My github stats:
 
